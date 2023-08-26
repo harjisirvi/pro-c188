@@ -1,0 +1,22 @@
+RoomBooking App
+1) the login page on that we have to design the page and then we have to make
+email id login and password for login in.After login/sign in on the top of the page
+there will be a text of roombooking and down there will bookedrooms and pendingrooms
+and beside there will be the price of the room and for how much day you want the room
+there will be 14floor and on which floor do you want.how much bhk do you want and there will be
+1&2bhk rooms there will be classic ,standard or lower class etc.after  using the app there will be
+rating given by the people on the app.
+2)bais layout 
+1]In the room there will entry in room after that there will be 3 bed and front of the bed there will be
+a big TV and there will the toilet and swimming pool the windows and for siting there will be four chear and there 
+will AC in the room this will be for classic how want 2bhk
+2]In the room there will entry in room after that there will be 2 bed and front of the bed there will be
+a big TV and there will the toilet and the windows and for siting there will be two chear and there 
+will two fan in the room this will be for standard how want 1bhk
+3]In the room there will entry in room after that there will be 1 bed and front of the bed there will be
+a small TV and there will the toilet and the windows and for siting there will be two chear and there 
+will one fan in the room this will be for lower class how want 1bhk
+3)The price of the rooms
+1]classic the price will 20,000
+2]standard the price will 10,000
+3]lower class the price will 5,000
